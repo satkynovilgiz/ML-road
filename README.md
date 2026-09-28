@@ -26,7 +26,6 @@
 # 🚀 About ML Road
 
 **ML Road** is my personal learning and engineering roadmap for Artificial Intelligence.
-
 The goal is not to create another huge list of random AI links.
 
 Instead, this repository follows a structured path:
