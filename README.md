@@ -7,7 +7,6 @@
 **A practical roadmap from ML fundamentals to production-ready AI agents.**
 
 <br>
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Engineering-blue?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-purple?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-Transformers-orange?style=for-the-badge)
