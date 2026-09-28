@@ -1105,7 +1105,7 @@ Topics I want to explore:
 - Model compression
 - Multimodal models
 
-### Retrieval
+### Retrieva
 
 - RAG
 - Graph RAG
